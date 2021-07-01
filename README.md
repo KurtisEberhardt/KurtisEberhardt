@@ -1,5 +1,5 @@
 ### My name is Kurtis! 
-I'm an artist with an interest in web development and game design. My main passion is video games and I wish to work as a production artist for a game company either in a freelance or as a full time inhouse artist. I hope one day to be able to design my own worlds and games at either my own game studio or my own art studio. Until then, I'm pursuing an education at Boise CodeWorks to work as a junior software developer. I hope to use the skills I learn to get experience working in the technology field so I can translate that into my own future ambitions. 
+I'm an artist with an interest in web development and game design. My main passion is video games and I wish to work as a production artist for a game company either in a freelance or as a full time inhouse artist. I hope one day to be able to design my own worlds and games at either my own game studio or my own art studio. Until then, I am working as a teacher's assistant at CodeWorks in Boise! I hope to use the skills I learn to get experience working in the technology field so I can translate that into my own future ambitions. 
 
 Thanks for stopping by!
 
