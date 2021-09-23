@@ -3,7 +3,7 @@ I'm an artist with an interest in web development and game design. My main passi
 
 Thanks for stopping by!
 
-
+![Kurtis' github stats](https://github-readme-stats.vercel.app/api?username=KurtisEberhardt)
 
 <!--
 **KurtisEberhardt/KurtisEberhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
