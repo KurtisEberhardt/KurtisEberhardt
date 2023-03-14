@@ -1,4 +1,4 @@
-### Open to opportunities! Please refer to my ![portfolio](https://kurtiseberhardt.github.io/Port/) for contact info. Thank you!
+### Open to opportunities! Please refer to my [portfolio](https://kurtiseberhardt.github.io/Port/) for contact info. Thank you!
 
 ### My name is Kurtis! 
 I'm an artist with an interest in web development and game design. My main passion is video games and I wish to work as a production artist for a game company either in a freelance or as a full time inhouse artist. I hope one day to be able to design my own worlds and games at either my own game studio or my own art studio. Until then, I am hard at work sharpening my development skills so that I can be an asset to any team that may have me!
